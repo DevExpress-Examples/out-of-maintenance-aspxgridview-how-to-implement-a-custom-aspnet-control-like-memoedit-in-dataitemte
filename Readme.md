@@ -1,11 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
-* [Default2.aspx](./CS/Default2.aspx) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
+* [Default2.aspx](./CS/Default2.aspx) (VB: [Default2.aspx](./VB/Default2.aspx))
 * [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
-* [Default3.aspx](./CS/Default3.aspx) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
+* [Default3.aspx](./CS/Default3.aspx) (VB: [Default3.aspx](./VB/Default3.aspx))
 * [Default3.aspx.cs](./CS/Default3.aspx.cs) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement a custom ASP.NET control like MemoEdit in DataItemTemplate
