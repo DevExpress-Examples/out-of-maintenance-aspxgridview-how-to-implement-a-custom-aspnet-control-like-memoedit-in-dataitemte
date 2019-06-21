@@ -9,6 +9,9 @@
 * [Default3.aspx.cs](./CS/Default3.aspx.cs) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement a custom ASP.NET control like MemoEdit in DataItemTemplate
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t367479/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement a custom ASP.NET control like <strong>MemoEdit </strong>in the <strong>DataItemTemplate in</strong> two different ways - in markup and code behind.</p>
